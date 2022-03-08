@@ -1,4 +1,7 @@
 //I created this menu app so users can add/create a color that can be associated with a fruit and its texture.
+//Use at least one array
+//Use at least two classes.
+//Your menu should have the options to create, view, and delete elements.
 
 class Fruit {
     constructor(name, texture) {
